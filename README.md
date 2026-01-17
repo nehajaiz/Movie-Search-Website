@@ -24,6 +24,9 @@ This project displays a curated list of popular Bollywood movies with posters, r
 
 ---
 
+Screenshots
+---
+
 ## 🚀 How to Run
 
 1. Download or clone the repository  
