@@ -24,7 +24,10 @@ This project displays a curated list of popular Bollywood movies with posters, r
 
 ---
 
-Screenshots
+##Screenshots
+<img width="1888" height="850" alt="Screenshot 1" src="https://github.com/user-attachments/assets/34c98690-ac2a-49e6-9675-dd524691635d" />
+<img width="1901" height="818" alt="Screenshot 2" src="https://github.com/user-attachments/assets/1c06eb67-48d8-4b68-af79-7acf443bbaa9" />
+
 ---
 
 ## 🚀 How to Run
