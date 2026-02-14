@@ -39,4 +39,5 @@ This project displays a curated list of popular Bollywood movies with posters, r
 ---
 
 🌐 Live Demo
+
 https://github.com/nehajaiz/Movie-Search-Website/
