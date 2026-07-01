@@ -16,7 +16,11 @@ Discover popular Bollywood movies, view posters, release years, and access watch
 ⚡ Fast & Lightweight
 🚀 No APIs Required
 💻 Beginner-Friendly Codebase
+
+
 📸 Screenshots
+
+
 Home Page
 
 <img width="1888" height="850" alt="Screenshot 1" src="https://github.com/user-attachments/assets/34c98690-ac2a-49e6-9675-dd524691635d" />
