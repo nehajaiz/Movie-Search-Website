@@ -5,6 +5,7 @@ A modern, responsive, and visually appealing movie discovery platform built with
 Discover popular Bollywood movies, view posters, release years, and access watch links through a clean and interactive user interface.
 
 ✨ Why You'll Love It
+
 🎬 Explore 50+ Popular Bollywood Movies
 🔍 Instant Movie Search
 🎞️ Beautiful Movie Posters
