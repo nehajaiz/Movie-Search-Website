@@ -1,4 +1,4 @@
-🎬 Movie Search Website
+#🎬 Movie Search Website
 
 A modern, responsive, and visually appealing movie discovery platform built with pure HTML, CSS, and JavaScript — no APIs required.
 
