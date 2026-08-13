@@ -156,8 +156,7 @@ web-development
 ui-design
 
 
-👩‍💻 Author
-Neha Kumari
+👩‍💻 Author : Neha Kumari
 
 B.Tech CSE (AI & ML)
 
